@@ -291,7 +291,7 @@ docker rm container-name
 
 ---
 
-## ✨ Next Up
+## Next Up
 
 In the next article, we’ll explore **data persistence** using **Docker volumes and bind mounts**.
 
